@@ -1,6 +1,5 @@
 body {
-    background-image: url("../img/fondo4.jpg");
-    background-size: cover;
+    background-color: #222;
 }
 
 #boton-perfil{
